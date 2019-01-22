@@ -1,6 +1,6 @@
 Folders
-Sample: contains the sample data for demo.
-Source Code: contains main codes of Orthogonal Encoding-based SVM implementation. Note that to compile the source code properly, you have to import the libsvm java files in advance.
+1. Sample: contains the sample data for demo.
+2. Source Code: contains main codes of Orthogonal Encoding-based SVM implementation. Note that to compile the source code properly, you have to import the libsvm java files in advance.
 
 
 Usage
