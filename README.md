@@ -1,6 +1,7 @@
 Folders
 1. Sample: contains the sample data for demo.
 2. Source Code: contains main codes of Orthogonal Encoding-based SVM implementation. Note that to compile the source code properly, you have to import the libsvm java files in advance.
+3. Prediction Results: contains the scores we obtained in 10-fold CV experiments by applying the prediction algorithm of Rognvaldsson et al. to the 301, 746, 1625, Impens and Schilling datasets respectively.
 
 
 Usage
